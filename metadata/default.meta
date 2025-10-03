@@ -1,4 +1,4 @@
 []
-access = read : [ * ], write : [ admin ]
-export = system 
+access = read : [ admin ], write : [ admin ]
+export = none 
 
